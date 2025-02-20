@@ -1,1 +1,1 @@
-# TextBasedGame
+This is a basic text based rpg game which employs the basic functionalities of functions and conditional statements in python. These involove employing different functions to create new character, spawning an enemy and battling them and leveling up if the character wins or ending the game in case the character loses to the enemy
